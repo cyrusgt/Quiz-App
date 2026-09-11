@@ -1,0 +1,7 @@
+{
+  "name": "Quiz App",
+  "description": "Interactive quiz application with real-time scoring across diverse categories, a quiz creator with automatic option generation, and historical performance review analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
